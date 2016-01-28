@@ -1,3 +1,4 @@
-print("Hello World")
-print("Hello everyone")
-print("Hello my dear friend")
+
+print("Hello World;")1
+print("Hello everyone;")1
+print("Hello my dear friend;")1
